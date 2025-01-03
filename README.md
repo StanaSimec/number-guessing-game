@@ -2,17 +2,17 @@
 
 ### Solution for the [number-guessing-game](https://roadmap.sh/projects/number-guessing-game) project from [roadmap.sh](https://roadmap.sh).
 
-## How to setup
-### Open project
+## Setup
+### Open
 ```
 $ git clone git@github.com:StanaSimec/number-guessing-game.git
 $ cd number-guessing-game
 ```
-### Compile project
+### Compile
 ```
 $ javac NumberGuessingGame.java
 ```
-### Run game
+### Play
 ```
 java NumberGuessingGame
 ```
